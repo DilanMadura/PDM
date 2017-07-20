@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+    Remove this if you use the .htaccess -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>HTML</title>
+    <meta name="description" content="">
+    <meta name="author" content="Dilan">
+
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+    <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+    <link rel="stylesheet" href="my1.css" />
+  </head>
+
+  <body>
+    <div id="a1">
+    
+    <div id="a2">City University Web Site</div> 
+    <div style="position: absolute;left: 800px"><img src="city.png" / style="width: 300px;height: 100px">
+      </div>
+  
+    <div id="a3">
+    <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="news.asp">News</a></li>
+          <li><a href="contact.asp">Contact</a></li>
+          <li><a href="about.asp">About</a></li>         
+          <li><a href="news.asp">News</a></li>
+          <li><a href="contactus.html">Contact Us</a></li>
+          <li><a href="">About Us</a></li>
+          
+    </ul>   
+    </div>  
+    
+    <div id="a5"><img src="key.jpg"style="width: 1200px;height: 480px;" /></div>
+    
+    <div id="a4">Setting > Create New Acount</div>
+    
+	 <div style="position: absolute;top: 220px;left: 150px">
+	 	<form>
+	 		<table style="width: 500px;height: 320px;color: ">
+	 			<tr>
+	 				<td>Posishan</td>
+	 				<td><input type="radio" />Student,Acedamic staf,Lectucher</td>
+	 			</tr>
+	 			<tr>
+	 				<td>Name</td>
+	 				<td><input type="text" /></td>
+	 			</tr>
+	 			<tr>
+	 				<td>Registration Number</td>
+	 				<td><input type="text" /></td>
+	 			</tr>
+	 			<tr>
+	 				<td>Email</td>
+	 				<td><input type="email" /></td>
+	 			</tr>
+	 			<tr>
+	 				<td>Conatce Number</td>
+	 				<td><input type="tel" /></td>
+	 			</tr>	 			
+	 			<tr>
+	 				<td>Address</td>
+	 				<td><input type="text" /></td>
+	 			</tr>
+	 			<tr>
+	 				<td>Birth day</td>
+	 				<td><input type="date" /></td>
+	 			</tr>	 			
+	 			
+	 				 			
+	 		</table>
+	 		
+	 		<table style="position: absolute;left: 600px;top: 10px;height: 100px;width: 500px">
+	 			<tr>
+	 				<td>Profile Pitcher</td>
+	 				<td><input type="image"style="width: 100px;height: 120px" /></td>
+	 			</tr>
+ 				<tr>
+	 				<td>Password</td>
+	 				<td><input type="text" /></td>
+	 			</tr>
+	 			<tr>
+	 				<td>Congfae Password</td>
+	 				<td><input type="text" /></td>
+	 			</tr>	 			
+	 		</table>
+	 		
+	 		<input type="submit"style="width: 200px;height: 40px;position: absolute;left: 180px;top: 350px;background-color: #000033;color: #ffffff;border-radius: 10px" />
+	 	</form>
+	 </div>
+	 
+	  
+    </div>  
+  </body>
+</html>
